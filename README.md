@@ -5,7 +5,7 @@
   <p>Write a Fibonacci sequence in different ways :) Fibonacci-SEN (Fibonacci Sum Even Number)</p>
   </div>
 
-## langs path
+## lang Map
 ```python
 .
 ├── JAVA
