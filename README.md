@@ -6,7 +6,7 @@
   </div>
 
 ## langs path
-```zsh
+```python
 .
 ├── JAVA
 │    └── With OOP
