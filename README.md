@@ -1,7 +1,7 @@
 # Fibonacci-SEN
 
 <div align="center" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/FibonacciRabbit.svg">
+<img src="https://th.bing.com/th/id/OIP.d5ek7KZm9MZg52k1Be4YAwHaE7?pid=ImgDet&rs=1">
   </div>
 
 ## langs path
