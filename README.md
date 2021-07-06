@@ -6,7 +6,7 @@
   </div>
 
 ## langs path
-```c++
+```rust
 .
 ├── JAVA
 │    └── With OOP
