@@ -7,6 +7,3 @@
   
 ## Write a Fibonacci sequence in different ways :) Fibonacci-SEN (Fibonacci Sum Even Number)
 
-# Lang
-
-JAVA & ...
