@@ -6,7 +6,7 @@
   </div>
 
 ## langs path
-```go
+```zsh
 .
 ├── JAVA
 │    └── With OOP
