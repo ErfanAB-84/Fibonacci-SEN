@@ -6,7 +6,7 @@
   </div>
 
 ## langs path
-```rust
+```go
 .
 ├── JAVA
 │    └── With OOP
