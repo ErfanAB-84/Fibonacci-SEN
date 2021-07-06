@@ -15,7 +15,7 @@
 │         └── Fibunachi.java
 ├──PYTHON
 │     └── Functional program
-.             └── Main.py
+.             └── main.py
 .
 
 ```
