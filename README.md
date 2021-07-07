@@ -10,10 +10,13 @@
 repo
 .
 ├── JAVA
-│     └── With OOP
-│         ├── Main.java
-│         ├── EvenNumber.java         
-│         └── Fibunachi.java
+│     ├──With OOP
+│     │     ├── Main.java
+│     │     ├── EvenNumber.java         
+│     │     └── Fibunachi.java
+│     │
+│     └── Functional program
+│               └── Main.java
 ├── PYTHON
 │     └── Functional program
 │               └── Main.py
