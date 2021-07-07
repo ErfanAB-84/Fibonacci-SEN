@@ -9,6 +9,7 @@
   <a href="https://github.com/mehranalam/Fibonacci-SEN/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/mehranalam/Fibonacci-SEN?style=flat-square" alt="Repo license" />
 </a>
+  <img src="https://img.shields.io/github/languages/code-size/mehranalam/Fibonacci-SEN?style=flat-square">
   </div>
 
 ## language Map
