@@ -9,13 +9,20 @@
 ```python
 .
 ├── JAVA
-│    └── With OOP
+│     └── With OOP
 │         ├── Main.java
-│         ├── EvenNumber.java
+│         ├── EvenNumber.java         
 │         └── Fibunachi.java
 ├── PYTHON
 │     └── Functional program
-.             └── Main.py
+│               └── Main.py
+├── JAVASCRIPT
+│     └── Functional program
+│               └── Fibonacci.js
+├── PHP
+│     └── Functional program 
+│               └── Fibonacci.php
+.
 .
 
 ```
