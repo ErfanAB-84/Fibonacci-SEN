@@ -1,7 +1,7 @@
 # Fibonacci-SEN
 
 <div align="center" width="50">
-<img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/interstellar-review.jpg>
+<img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/interstellar-review.jpg">
   <p>Write a Fibonacci sequence in different ways :) Fibonacci-SEN (Fibonacci Sum Even Number)</p>
   <a href="https://github.com/mehranalam/Fibonacci-SEN" target="blank">
 <img src="https://img.shields.io/github/stars/mehranalam/Fibonacci-SEN?style=flat-square" alt="Repo stars"/>
