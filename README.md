@@ -1,17 +1,24 @@
 # Fibonacci-SEN
 
 <div align="center" width="50">
-<img src="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/interstellar-review.jpg">
+  <img src="https://github.com/BlackIQ.png">
   <p>Write a Fibonacci sequence in different ways :) Fibonacci-SEN (Fibonacci Sum Even Number)</p>
   <a href="https://github.com/mehranalam/Fibonacci-SEN" target="blank">
-<img src="https://img.shields.io/github/stars/mehranalam/Fibonacci-SEN?style=flat-square" alt="Repo stars"/>
-</a>
+    <img src="https://img.shields.io/github/stars/mehranalam/Fibonacci-SEN?style=flat-square" alt="Repo stars"/>
+  </a>
   <a href="https://github.com/mehranalam/Fibonacci-SEN/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/mehranalam/Fibonacci-SEN?style=flat-square" alt="Repo license" />
-</a>
+    <img src="https://img.shields.io/github/license/mehranalam/Fibonacci-SEN?style=flat-square" alt="Repo license" />
+  </a>
   <img src="https://img.shields.io/github/languages/code-size/mehranalam/Fibonacci-SEN?style=flat-square">
   <img src="https://img.shields.io/github/forks/mehranalam/Fibonacci-SEN?style=flat-square">
-  </div>
+  <p>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Mehranalam/Fibonacci-SEN">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mehranalam/Fibonacci-SEN">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mehranalam/Fibonacci-SEN">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Mehranalam/Fibonacci-SEN">
+    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Mehranalam/Fibonacci-SEN">
+  </p>
+</div>
 
 ## language Map
 ```python
