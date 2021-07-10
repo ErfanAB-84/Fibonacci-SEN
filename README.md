@@ -40,7 +40,7 @@ repo
 │
 ├── GOLANG
 │      └── Functional program
-│                └── main.go
+│               └── main.go
 │ 
 │ 
 .
