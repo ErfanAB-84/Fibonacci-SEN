@@ -37,6 +37,12 @@ repo
 ├── CPP
 │     └── Functional program 
 │               └── main.cpp
+│
+├── GOLANG
+│      └── Functional program
+│                └── main.go
+│ 
+│ 
 .
 .
 
